@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Weatherly",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to learn the Vue, Nuxt and Go by building an wheather website.",
+        "skills": [
+            "Nuxt",
+            "Postgresql",
+            "Go",
+            "Go fiber"
+        ]
+    }
+]

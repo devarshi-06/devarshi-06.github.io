@@ -1,0 +1,78 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/js.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png"
+    },
+    {
+        "title": "Vue",
+        "imageSrc": "skills/vue.png"
+    },
+    {
+        "title": "Nuxt",
+        "imageSrc": "skills/nuxt.png"
+    },
+    {
+        "title": "Go",
+        "imageSrc": "skills/go.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "Frappe",
+        "imageSrc": "skills/frappe.png"
+    },
+    {
+        "title": "Pandas",
+        "imageSrc": "skills/pandas.png"
+    },
+    {
+        "title": "Matplotlib",
+        "imageSrc": "skills/matplotlib.png"
+    },
+    {
+        "title": "Php",
+        "imageSrc": "skills/php.png"
+    },
+    {
+        "title": "Laravel",
+        "imageSrc": "skills/laravel.png"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql.png"
+    },
+    {
+        "title": "PostgreSQL",
+        "imageSrc": "skills/postgresql.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/c.png"
+    },
+    {
+        "title": "Docker",
+        "imageSrc": "skills/docker.png"
+    },
+    {
+        "title": "Postman",
+        "imageSrc": "skills/postman.png"
+    },
+    {
+        "title": "Dbeaver",
+        "imageSrc": "skills/dbeaver.png"
+    }
+]
