@@ -16,6 +16,10 @@
         "imageSrc": "skills/bootstrap.png"
     },
     {
+        "title": "Tailwind",
+        "imageSrc": "skills/tailwind.png"
+    },
+    {
         "title": "Vue",
         "imageSrc": "skills/vue.png"
     },
