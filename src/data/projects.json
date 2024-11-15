@@ -1,8 +1,50 @@
 [
     {
+        "title": "Cognyx",
+        "imageSrc": "projects/project.png",
+        "description": "As a developer at Cognyx, a web application based in France tailored for the manufacturing industry, I contribute to feature development that enhances the visualization and import capabilities (ETL) of BOM (Bill of Materials) data. Cognyx enables manufacturers to efficiently manage, view, and interact with complex BOM structures, providing a robust digital solution to streamline industry workflows. I also Develop a CI, to measure coverage on a comment.",
+        "skills": [
+            "tailwind, MySQL, Neo4j, Laravel, Spatie (laravel event-sourcing), Github CI",
+            "Vue.js",
+            "MySQL",
+            "Neo4j",
+            "Spatie",
+            "Github CI"
+        ]
+    },
+    {
+        "title": "Artisan Data analysis",
+        "imageSrc": "projects/project.png",
+        "description": "I developed data analysis solutions for artisans, focusing on sales trends over time across various cities. The analysis includes identifying the top-performing shops and their sales distribution by city. It also tracks the most popular items being sold, highlighting key sales trends. Additionally, I identified the top five shops based on overall sales performance, enabling data-driven insights for targeted business strategies and inventory management.",
+        "skills": [
+            "Pandas",
+            "Matplotlib",
+            "Google Colab"
+        ]
+    },
+    {
+        "title": "ERPNext-Projects-Plus",
+        "imageSrc": "projects/project.png",
+        "description": "I worked on ERPNext Projects Plus, a solution designed to simplify task management within the open-source ERP stack of Frappe ERPNext. My contributions include integrating GitHub with ERPNext, enabling seamless task management. This integration allows developers to sync GitHub task keys with ERP tasks, view commits and pull requests directly within ERPNext, and automatically close tasks based on specific keywords from GitHub. The project provides an efficient task management system similar to Linear or Jira, streamlining workflows between development teams and project management tools.",
+        "skills": [
+            "Javascript",
+            "Frappe Framework"
+        ]
+    },
+    {
+        "title": "Apricot",
+        "imageSrc": "projects/project.png",
+        "description": "I developed Apricot, an application designed to simplify the job interview process for organizations. Integrated within the ERPNext Interview Module, it allows interviewers to easily create calendar events and communicate with candidates via email. Additionally, I implemented a full-fledged coding interview module where job applicants can take coding assessments directly within ERPNext. The module features a code editor with autosave, supports multiple programming languages, and is time-constrained, automatically preventing further submission after the allotted time expires. Apricot streamlines the interview workflow and enhances the candidate evaluation experience.",
+        "skills": [
+            "Javascript",
+            "Vue.js",
+            "Frappe Framework"
+        ]
+    },
+    {
         "title": "Weatherly",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the Vue, Nuxt and Go by building an wheather website.",
+        "description": "Develop a website that can show weather and weather elements.",
         "skills": [
             "Nuxt",
             "Postgresql",
