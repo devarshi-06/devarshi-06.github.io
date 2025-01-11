@@ -4,6 +4,8 @@
         "imageSrc": "projects/project.png",
         "description": "A BOM management system for manufacturing industry.",
         "skills": [
+            "Laravel",
+            "PHP",
             "tailwind",
             "Vue.js",
             "MySQL",
@@ -15,6 +17,7 @@
         "imageSrc": "projects/project.png",
         "description": "Top trends and shops data analysis alongside sales count.",
         "skills": [
+            "Python",
             "Pandas",
             "Matplotlib",
             "Google Colab"
@@ -26,7 +29,9 @@
         "description": "Task management system integrated with github similar to Jira.",
         "skills": [
             "Javascript",
-            "Frappe Framework"
+            "Vue.js",
+            "Frappe Framework",
+            "Python"
         ]
     },
     {
@@ -36,7 +41,8 @@
         "skills": [
             "Javascript",
             "Vue.js",
-            "Frappe Framework"
+            "Frappe Framework",
+            "Python"
         ]
     },
     {
